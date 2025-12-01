@@ -1,4 +1,4 @@
-(executable
- (public_name aoc25)
- (name main)
+(executables
+ (public_names p1)
+ (names p1)
  (libraries aoc25))

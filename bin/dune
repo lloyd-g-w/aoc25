@@ -1,4 +1,4 @@
 (executables
- (public_names p1)
- (names p1)
+ (public_names p1 p2)
+ (names p1 p2)
  (libraries aoc25))
